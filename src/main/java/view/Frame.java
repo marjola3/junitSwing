@@ -27,7 +27,7 @@ public class Frame extends JFrame{
 
         setSize(300, 500);
         setLocationRelativeTo(null);
-        setTitle("Obliczenia");
+        setTitle("Actors");
     }
 
     public void intializeComponent(){

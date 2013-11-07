@@ -1,6 +1,8 @@
+import model.Actor;
 import view.Frame;
 
 import javax.swing.*;
+import java.util.logging.Logger;
 
 /**
  * User: Mariola
